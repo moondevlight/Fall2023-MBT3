@@ -5,5 +5,6 @@ Task Description: Perform basic operations on 2x2 and 3x3 matrices, such as addi
 * Clean Code
 * Use Static Arrays C++ Libraries
 * Object Oriented Programming (OOP)
-* Implement Basic Operations Like addition(+), subtraction(-), multipication(*) and Inverse(M<sup>-1</sup>)
+* Implement Zeros, Ones and Eye Matrices
 * Fork This Repository and Commit Your Codes on It
+* Implement Basic Operations Like addition(+), subtraction(-), multipication(*) and Inverse(M<sup>-1</sup>)
